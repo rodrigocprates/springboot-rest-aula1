@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../clientes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../clientes-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../radio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-parser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-cache" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-fluxos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-grupos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-ics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-solucoes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-dashboard-servico-usuario" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/orizon-rules-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/service-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/spring-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/starting-with-spring-rest-kafka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ilegra/orizon/Workspace/zuul-gateway" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="44" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.app.clientes.ClientesApplication" />
+      <module name="clientes_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>java 8 openjdk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
