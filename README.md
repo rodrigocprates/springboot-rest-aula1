@@ -2,4 +2,4 @@
 
 ### Video-aula
 
-    https://youtu.be/992iLtT4Lb4
+    https://www.youtube.com/watch?v=I8kX8TARjJg
